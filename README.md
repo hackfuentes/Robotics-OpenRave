@@ -1,5 +1,5 @@
-# openrave
-Bash scripts to install OpenRAVE in LiGNUx
+# Universidad Mayor de San Simon
+Facultad de Ciencias y Tecnologia
 
 # openrave-installation
 
