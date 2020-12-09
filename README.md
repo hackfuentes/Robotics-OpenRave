@@ -1,4 +1,5 @@
-# Universidad Mayor de San Simón - Facultad de Ciencias y Tecnología
+# Universidad Mayor de San Simón 
+Facultad de Ciencias y Tecnología
 
 # openrave-installation
 
